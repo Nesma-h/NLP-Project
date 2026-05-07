@@ -1,0 +1,3 @@
+data >>> https://www.kaggle.com/datasets/sbhatti/news-summarization
+
+repoo >>> https://github.com/Nesma-h/NLP-Project
